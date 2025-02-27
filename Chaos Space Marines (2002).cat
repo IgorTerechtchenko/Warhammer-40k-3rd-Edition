@@ -3378,7 +3378,7 @@
                 </modifier>
               </modifiers>
               <constraints>
-                <constraint field="selections" scope="parent" value="2" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d7e8-ab33-e7f3-1b84" type="max"/>
+                <constraint field="selections" scope="parent" value="4" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d7e8-ab33-e7f3-1b84" type="max"/>
               </constraints>
               <infoLinks>
                 <infoLink id="c5f4-90b2-5071-0d5f" name="Plasma Gun" hidden="false" targetId="112a-baea-9eeb-b1b5" type="profile"/>
